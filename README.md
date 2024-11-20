@@ -1,6 +1,7 @@
 # webrtc-client
+webrtc点对点音视频通话 包含发起通话、接听、拒绝等功能。
 
-This template should help get you started developing with Vue 3 in Vite.
+[nodejs端](https://github.com/yangzhen5/webrtc-server)
 
 ## Recommended IDE Setup
 
